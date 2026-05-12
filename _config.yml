@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Xin Xie / Site Title"
+title                    : "谢鑫的个人主页"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://xiexin312.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -27,10 +27,10 @@ author:
   name             : "Xin Xie"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Lanzhou Gansu"
-  employer         : "Red Brick University"
+  location         : "甘肃兰州"
+  employer         : "兰州交通大学"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "xiexin@mail.lzjtu.cn" 
 
   # Academic websites
   academia         : # URL
