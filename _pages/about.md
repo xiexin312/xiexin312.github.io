@@ -9,7 +9,7 @@ redirect_from:
 
 **Tianyou Associate Professor**  
 School of Electronic and Information Engineering, Lanzhou Jiaotong University  
-Office: Room 1011, Lizhi Building, 88 West Anning Road, Anning District, Lanzhou 730070, China.  
+Office: Room 1011, Lizhi Building, 88 West Anning Road, Anning District, Lanzhou 730070, China  
 Email: xiexin@mail.lzjtu.cn
 
 ## Welcome to join My Group! 
