@@ -26,3 +26,4 @@ We are currently recruiting Master’s students. If you are interested in our re
 ## News
 - Dr. Xie was invited to serve as IEEE Globecom 2026 IoTSN TPC member on 2026/05/12. 
 - The paper "Joint Design of Coding and Modulation for Digital Over-the-Air Computation" was accepted by IEEE Internet-of-Things Journal on 2016/01/19. ([Paper Link](https://ieeexplore.ieee.org/abstract/document/11358822))
+- Dr. Xie received the ACM China Council Lanzhou Chapter Excellent Doctoral Dissertation Award on 2025/09/20.
