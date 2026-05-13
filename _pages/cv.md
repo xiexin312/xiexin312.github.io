@@ -11,26 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Cyberspace Security, Shanghai Jiao Tong University, 2024/12, Supervisor: [Cunqing Hua](https://scholar.google.com/citations?user=3k3nuSoAAAAJ&hl=zh-CN)
+* M.S. in Communication and Information Systems, The University of Chinese Academy of Sciences/ShanghaiTech University, 2017/07, Supervisor: [Xiliang Luo](https://scholar.google.com/citations?user=hLj5elMAAAAJ&hl=zh-CN)
+* B.S. in Communication Engineering, Tongji University, 2014/07
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
+* 2017/07-2020/08: Academic Pages Collaborator
   * GitHub University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
