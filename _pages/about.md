@@ -28,4 +28,4 @@ We are currently recruiting Master’s students. If you are interested in our re
 * The paper "Joint Design of Coding and Modulation for Digital Over-the-Air Computation" was accepted by IEEE Internet-of-Things Journal. ([Paper Link](https://ieeexplore.ieee.org/abstract/document/11358822)) @2016/01/19
 * Dr. Xin Xie received the ACM China Council Lanzhou Chapter Excellent Doctoral Dissertation Award. @ 2025/09/20
 * Welcome Zhuiwei Tang, Dizhi Zhang, and Tong Cheng to our research group as Master's students! @ 2025/09/01
-* Dr. Xin Xie joined the School of Electronics and Information Engineering at Lanzhou Jiaotong University as an Associate Professor under the Tianyou Talent Program! @ 2025/05/14
+* Dr. Xin Xie joined the School of Electronics and Information Engineering at Lanzhou Jiaotong University as an Associate Professor under the Tianyou Talent Program (天佑人才计划)! @ 2025/05/14
