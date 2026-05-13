@@ -17,19 +17,14 @@ Education
 
 Work experience
 ======
-* 2017/07-2020/08: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2017/07-2020/08: Baseband Algorithm Engineer in [XinyiSemi](https://www.xinyisemi.com/)
+  * Duties includes: Algorithms Design, MATLAB Simulation, and C++ Implementation of NB-IoT Chip Physical Layer.
+  * Project: Fully participated in the R&D of the company's first NB-IoT communication chip ([XY1100](https://www.xinyisemi.com/products/nb-iot-soc/2)), responsible for physical layer algorithm design, MATLAB simulation, and C++ implementation. The chip has since achieved large-scale commercial deployment with cumulative shipments exceeding 100 million units.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Matlab
+* C/C++
 
 Publications
 ======
