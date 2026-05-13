@@ -25,11 +25,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Xin Xie"
-  pronouns         : # example: "she/her"  
+  pronouns         : "He" # example: "she/her"  
   bio              : "兰州交通大学 电子与信息工程学院 天佑副教授"
-  location         : "甘肃兰州"
-  employer         : "兰州交通大学"
-  uri              : "https://www.lzjtu.edu.cn/"
+  #location         : "甘肃兰州"
+  #employer         : "兰州交通大学"
+  #uri              : "https://www.lzjtu.edu.cn/"
   email            : "xiexin@mail.lzjtu.cn" 
 
   # Academic websites
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-0945-969X"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  #bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
