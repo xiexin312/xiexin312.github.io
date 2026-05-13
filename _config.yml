@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Xin Xie (谢鑫) Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Xin Xie"
-  pronouns         : "He" # example: "she/her"  
+  #pronouns         : "He" # example: "she/her"  
   bio              : "兰州交通大学 电子与信息工程学院 天佑副教授"
   #location         : "甘肃兰州"
   #employer         : "兰州交通大学"
