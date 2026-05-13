@@ -13,7 +13,9 @@ Office: Room 1011, Lizhi Building, 88 West Anning Road, Anning District, Lanzhou
 Email: xiexin@mail.lzjtu.cn
 
 ## Welcome to join My Group! 
-We are the **Ubiquitous Connectivity and Intelligent Computing Group (UC&IC Group)**, focusing on efficient communications for massive-scale devices and intelligent computing in next-generation mobile communication networks. We are currently recruiting Master’s students. If you are interested in our research topics, please contact me via email and include your undergraduate transcript and CV!
+We are the **Ubiquitous Connectivity and Intelligent Computing Group (UC&IC Group)**, focusing on efficient communications for massive-scale devices and intelligent computing in next-generation mobile communication networks. 
+
+We are currently recruiting Master’s students. If you are interested in our research topics, please contact me via email and include your undergraduate transcript and CV!
 
 ## Research Topics
 - Resource-efficient transmission techniques for 6G
