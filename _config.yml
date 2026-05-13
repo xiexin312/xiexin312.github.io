@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Xin Xie (谢鑫) Homepage"
+title                    : "Xin Xie Homepage"
 title_separator          : "-"
 name                     : "NAME"
 description              : "Description"  #&description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Xin Xie"
   pronouns         :  example: "she/her"  
-  bio              : "Associate Professor<br>School of Electronic and Information Engineering<br>Lanzhou Jiaotong University"
+  bio              : "Associate Professor<br>Lanzhou Jiaotong University"
   location         : 
   employer         : 
   uri              : 
