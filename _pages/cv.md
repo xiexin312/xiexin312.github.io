@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education
 - Ph.D in Cyberspace Security, Shanghai Jiao Tong University, 2024/12, Supervisor: [Cunqing Hua](https://scholar.google.com/citations?user=3k3nuSoAAAAJ&hl=zh-CN)
-- M.S. in Communication and Information Systems, The University of Chinese Academy of Sciences/ShanghaiTech University, 2017/07, Supervisor: [Xiliang Luo](https://scholar.google.com/citations?user=hLj5elMAAAAJ&hl=zh-CN)
+- M.S. in Communication and Information Systems, The University of Chinese Academy of Sciences & ShanghaiTech University, 2017/07, Supervisor: [Xiliang Luo](https://scholar.google.com/citations?user=hLj5elMAAAAJ&hl=zh-CN)
 - B.S. in Communication Engineering, Tongji University, 2014/07
 
 ## Work experience
