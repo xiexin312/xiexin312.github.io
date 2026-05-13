@@ -10,14 +10,14 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* Ph.D in Cyberspace Security, Shanghai Jiao Tong University, 2024/12, Supervisor: [Cunqing Hua](https://scholar.google.com/citations?user=3k3nuSoAAAAJ&hl=zh-CN)
-* M.S. in Communication and Information Systems, The University of Chinese Academy of Sciences/ShanghaiTech University, 2017/07, Supervisor: [Xiliang Luo](https://scholar.google.com/citations?user=hLj5elMAAAAJ&hl=zh-CN)
-* B.S. in Communication Engineering, Tongji University, 2014/07
+- Ph.D in Cyberspace Security, Shanghai Jiao Tong University, 2024/12, Supervisor: [Cunqing Hua](https://scholar.google.com/citations?user=3k3nuSoAAAAJ&hl=zh-CN)
+- M.S. in Communication and Information Systems, The University of Chinese Academy of Sciences/ShanghaiTech University, 2017/07, Supervisor: [Xiliang Luo](https://scholar.google.com/citations?user=hLj5elMAAAAJ&hl=zh-CN)
+- B.S. in Communication Engineering, Tongji University, 2014/07
 
 ## Work experience
-* 2017/07-2020/08: Baseband Algorithm Engineer in [XinyiSemi](https://www.xinyisemi.com/)
-  * Duties includes: Algorithms Design, MATLAB Simulation, and C++ Implementation of NB-IoT Chip Physical Layer.
-  * Project: Fully participated in the R&D of the company's first NB-IoT communication chip ([XY1100](https://www.xinyisemi.com/products/nb-iot-soc/2)), responsible for physical layer algorithm design, MATLAB simulation, and C++ implementation. The chip has since achieved large-scale commercial deployment with cumulative shipments exceeding 100 million units.
+- 2017/07-2020/08: Baseband Algorithm Engineer in [XinyiSemi](https://www.xinyisemi.com/)
+  - Duties includes: Algorithms Design, MATLAB Simulation, and C++ Implementation of NB-IoT Chip Physical Layer.
+  - Project: Fully participated in the R&D of the company's first NB-IoT communication chip ([XY1100](https://www.xinyisemi.com/products/nb-iot-soc/2)), responsible for physical layer algorithm design, MATLAB simulation, and C++ implementation. The chip has since achieved large-scale commercial deployment with cumulative shipments exceeding 100 million units.
   
 
 ## Publications
