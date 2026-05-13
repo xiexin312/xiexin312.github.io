@@ -22,4 +22,5 @@ We are the **Ubiquitous Connectivity and Intelligent Computing Group (UC&IC Grou
 - Communications for brain-computer interfaces
 
 ## News
-- The paper "Joint Design of Coding and Modulation for Digital Over-the-Air Computation" was accepted by IEEE Internet-of-Things Journal on 1016/01/19. ([Paper Link](https://ieeexplore.ieee.org/abstract/document/11358822))
+- Dr. Xie was invited to serve as IEEE Globecom 2026 IoTSN TPC member on 2026/05/12. 
+- The paper "Joint Design of Coding and Modulation for Digital Over-the-Air Computation" was accepted by IEEE Internet-of-Things Journal on 2016/01/19. ([Paper Link](https://ieeexplore.ieee.org/abstract/document/11358822))
