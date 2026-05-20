@@ -41,3 +41,20 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+
+.pub-list {
+  list-style-type: decimal;
+  padding-left: 2.5em;
+  margin-bottom: 2em;
+}
+
+.pub-list li {
+  margin-bottom: 1.2em;
+  line-height: 1.6;
+}
+
+.pub-list a {
+  margin-left: 0.4em;
+  text-decoration: none;
+}
