@@ -44,9 +44,8 @@
 
 
 .pub-list {
-  list-style-type: decimal;
-  padding-left: 2.5em;
-  margin-bottom: 2em;
+  list-style-type: none;  /* 去掉默认列表符号 */
+  padding-left: 0;        /* 去掉左边距 */
 }
 
 .pub-list li {
