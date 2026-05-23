@@ -11,28 +11,22 @@ author_profile: true
 
 {% include base_path %}
 
-{% assign total_pubs = site.publications | size %}
-
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        <ul class="pub-list">
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% assign index = total_pubs | minus: forloop.index0 %}
-      {% include pub-simple.html %}
-    {% endfor %}
-    {% if title_shown %}
+    {% assign category_posts = site.publications | where: "category", category[0] %}
+    {% assign total_in_category = category_posts | size %}
+    {% if total_in_category > 0 %}
+      <h2>{{ category[1].title }}</h2><hr />
+      <ul class="pub-list">
+      {% for post in category_posts reversed %}
+        {% assign index = total_in_category | minus: forloop.index0 %}
+        {% include pub-simple.html %}
+      {% endfor %}
       </ul>
     {% endif %}
   {% endfor %}
 {% else %}
+  {% assign total_pubs = site.publications | size %}
   <ul class="pub-list">
   {% for post in site.publications reversed %}
     {% assign index = total_pubs | minus: forloop.index0 %}
