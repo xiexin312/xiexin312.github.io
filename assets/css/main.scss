@@ -41,19 +41,3 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-
-
-.pub-list {
-  list-style-type: none;  /* 去掉默认列表符号 */
-  padding-left: 0;        /* 去掉左边距 */
-}
-
-.pub-list li {
-  margin-bottom: 1.2em;
-  line-height: 1.6;
-}
-
-.pub-list a {
-  margin-left: 0.4em;
-  text-decoration: none;
-}
