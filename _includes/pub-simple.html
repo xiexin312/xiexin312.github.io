@@ -1,9 +1,9 @@
 <li>
-  {{ post.authors | markdownify | remove: '<p>' | remove: '</p>' }}, "{{ post.title }}," 
+  [{{ index }}] {{ post.authors | markdownify | remove: '<p>' | remove: '</p>' }}, "{{ post.title }}," 
   <em>{{ post.venue }}</em>, 
   {% if post.volume %}vol. {{ post.volume }}, {% endif %}
   {% if post.number %}no. {{ post.number }}, {% endif %}
   {% if post.pages %}pp. {{ post.pages }}, {% endif %}
   {{ post.date | date: "%Y" }}.
-  {% if post.doi %}<a href="https://doi.org/{{ post.doi }}">[Paper]</a>{% endif %}
+  {% if post.doi %}<a href="https://doi.org/{{ post.doi }}">[DOI]</a>{% endif %}
 </li>
