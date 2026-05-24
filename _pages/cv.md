@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "AboutMe"
+title: "About Me"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-- Ph.D in Cyberspace Security, Shanghai Jiao Tong University, 2024/12, Supervisor: [Cunqing Hua](https://scholar.google.com/citations?user=3k3nuSoAAAAJ&hl=zh-CN)
-- M.S. in Communication and Information Systems, The University of Chinese Academy of Sciences & ShanghaiTech University, 2017/07, Supervisor: [Xiliang Luo](https://scholar.google.com/citations?user=hLj5elMAAAAJ&hl=zh-CN)
-- B.S. in Communication Engineering, Tongji University, 2014/07
+- Ph.D in Cyberspace Security, Shanghai Jiao Tong University, 2020/09-2024/12, Supervisor: [Cunqing Hua](https://scholar.google.com/citations?user=3k3nuSoAAAAJ&hl=zh-CN)
+- M.S. in Communication and Information Systems, The University of Chinese Academy of Sciences & ShanghaiTech University, 2014/09-2017/07, Supervisor: [Xiliang Luo](https://scholar.google.com/citations?user=hLj5elMAAAAJ&hl=zh-CN)
+- B.S. in Communication Engineering, Tongji University, 2010/09-2014/07.
 
 ## Work experience
 - 2017/07-2020/08: Baseband Algorithm Engineer in [XinyiSemi](https://www.xinyisemi.com/)
