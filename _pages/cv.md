@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "AboutMe"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -16,24 +16,5 @@ redirect_from:
 
 ## Work experience
 - 2017/07-2020/08: Baseband Algorithm Engineer in [XinyiSemi](https://www.xinyisemi.com/)
-  - Duties includes: Algorithms Design, MATLAB Simulation, and C++ Implementation of NB-IoT Chip Physical Layer.
   - Project: Fully participated in the R&D of the company's first NB-IoT communication chip ([XY1100](https://www.xinyisemi.com/products/nb-iot-soc/2)), responsible for physical layer algorithm design, MATLAB simulation, and C++ implementation. The chip has since achieved large-scale commercial deployment with cumulative shipments exceeding 100 million units.
   
-
-## Publications
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-## Talks
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-## Teaching
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-## Service and leadership
-* Currently signed in to 43 different slack teams
