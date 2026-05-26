@@ -23,7 +23,7 @@ redirect_from:
 ## Work
 - Algorithm Engineer in [xinyisemi(芯翼信息科技(上海)有限公司)](https://www.xinyisemi.com/), 2017/07-2020/08
   - Fully participated in the R&D of the company's first NB-IoT communication chip ([XY1100](https://www.xinyisemi.com/products/nb-iot-soc/2)), responsible for physical layer algorithm design and implementation. The chip has since achieved large-scale commercial deployment with cumulative shipments exceeding 100 million units.
-- Tianyou Associate Professor in [Lanzhou Jiaotong University](https://www.lzjtu.edu.cn/), 2025/05- 
+- Tianyou Associate Professor in [Lanzhou Jiaotong University](https://www.lzjtu.edu.cn/), 2025/05-now
   
 ## Award
 - [Sep.2025] ACM China Council Lanzhou Chapter Excellent Doctoral Dissertation Award.
