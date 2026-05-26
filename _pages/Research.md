@@ -11,7 +11,8 @@ redirect_from:
 
 ## Research Field 
 - Over-the-Air Computation
-- Radio Frequency Fingerprinting
+- Embodied Intelligent Wireless Communication
+- Brain-Computer Communication
 
 
 

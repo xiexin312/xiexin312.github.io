@@ -15,13 +15,13 @@ Email: xiexin@mail.lzjtu.cn
 ## Welcome to join My Group!
 We are the **Ubiquitous Connectivity and Intelligent Computing Group (UC&IC Group)**, focusing on efficient communications for massive-scale devices and intelligent computing in next generation mobile communication networks. 
 
-We are currently recruiting Master’s students. If you are interested in our research topics, please contact me via email and include your undergraduate transcript and CV!
+We are currently recruiting Master's students. If you are interested in our research topics, please contact me via email and include your undergraduate transcript and CV!
 
 ## Research Topics
-* Resource-efficient transmission techniques for 6G
-* Security and privacy protection in wireless networks
-* Integration of AI with wireless communications
-* Communications for brain-computer interfaces
+* Novel Communication Paradigms for 6G
+* Security and Privacy for 6G
+* Swarm Intelligent Communication and Networking
+* Communications for Brain-Computer Interfaces
 
 ## News
 * [2026/05/12] Dr. Xin Xie was invited to serve as IEEE Globecom 2026 IoTSN TPC member.
