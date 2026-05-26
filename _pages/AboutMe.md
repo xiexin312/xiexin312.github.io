@@ -25,7 +25,7 @@ redirect_from:
 ## Professional Services
 - Reviewer for journals:
   - IEEE Journal on Selected Areas in Communications
-  - IEEE IEEE Transactions on Information Forensics and Security
+  - IEEE Transactions on Information Forensics and Security
 
 - Reviewer for conferences:
   - IEEE Globecom
