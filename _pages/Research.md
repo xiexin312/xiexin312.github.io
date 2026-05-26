@@ -10,9 +10,8 @@ redirect_from:
 {% include base_path %}
 
 ## Research Field 
-- Field 1
-- Field 2
-- Field 2
+- Over-the-Air Computation
+- Radio Frequency Fingerprinting
 
 
 

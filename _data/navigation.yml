@@ -15,10 +15,10 @@ main:
     url: /publications/
 
   - title: "Research"
-    url: /Research/
+    url: /research/
   
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching-simple/    
     
   - title: "Group"
     url: /group/
