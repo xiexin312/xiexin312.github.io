@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-## Undergraduate Courses
+## Undergraduate Course
 
 - Mobile communication network and optimization, Lanzhou Jiaotong University, Spring 2026
