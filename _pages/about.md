@@ -18,9 +18,9 @@ We are the **Ubiquitous Connectivity and Intelligent Computing (UC&IC) Group**, 
 [**Available Position**] We are currently recruiting Master's students. If you are interested in our research topics, please contact me via email and include your undergraduate transcript and CV!
 
 ## Research Topics
-* Novel Communication Paradigms, Security and Privacy for 6G Networks;
-* Swarm Intelligent Communication and Networking;
-* Communications for Brain-Computer Interfaces;
+* Novel Communication Paradigms, Security and Privacy for 6G Networks
+* Swarm Intelligent Communication and Networking
+* Communications for Brain-Computer Interfaces
 
 ## News
 * [2026/05/12] Dr. Xin Xie was invited to serve as IEEE Globecom 2026 IoTSN TPC member.
