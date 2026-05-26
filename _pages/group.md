@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Group"
+title: "UC&IC Group"
 permalink: /group/
 author_profile: true
 redirect_from:
@@ -12,7 +12,7 @@ redirect_from:
 ## Current Members
 - Zhuiwei Tang, Master Student, (Beijing Union University, Beijing, 2025.09)
 - Dizhi Zhang, Master Student, (Xinjiang Tianshan Vocational and Technical University, Urumqi, 2025.09)
-- Tong Chen, Master Student, (Ankang University, Xi'an, 2025.09)
+- Tong Cheng, Master Student, (Ankang University, Xi'an, 2025.09)
 
 
 
