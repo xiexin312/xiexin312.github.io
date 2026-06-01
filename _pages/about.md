@@ -12,7 +12,7 @@ School of Electronic and Information Engineering, Lanzhou Jiaotong University
 Office: Room 1011, Lizhi Building, 88 West Anning Road, Anning District, Lanzhou 730070, China  
 Email: xiexin@mail.lzjtu.cn
 
-## Welcome to join My Group!
+## Welcome to Join My Group!
 We are the **Ubiquitous Connectivity and Intelligent Computing (UC&IC) Group**, focusing on efficient communications, reliable networking and intelligent computing in next generation mobile communication networks. 
 
 [**Available Position**] We are currently recruiting Master's students. If you are interested in our research topics, please contact me via email and include your undergraduate transcript and CV!
