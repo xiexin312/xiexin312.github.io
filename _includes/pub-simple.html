@@ -5,5 +5,5 @@
   {% if post.number %}no. {{ post.number }}, {% endif %}
   {% if post.pages %}pp. {{ post.pages }}, {% endif %}
   {{ post.date | date: "%Y" }}.
-  {% if post.doi %}<a href="https://doi.org/{{ post.doi }}">[Paper Link]</a>{% endif %}
+  {% if post.doi %}<a href="https://doi.org/{{ post.doi }}">[HTML]</a>{% endif %}
 </li>
