@@ -29,11 +29,12 @@ redirect_from:
 - [Sep.2025] ACM China Council Lanzhou Chapter Excellent Doctoral Dissertation Award.
 
 ## Professional Services
-- Reviewer for journals:
+- Reviewer for Journals:
   - IEEE Journal on Selected Areas in Communications
   - IEEE Transactions on Information Forensics and Security
+  - IEEE Wireless Communications Letters
 
-- Reviewer for conferences:
+- Reviewer for Conferences:
   - IEEE Globecom
   - IEEE ICC
   - IEEE WCSP
