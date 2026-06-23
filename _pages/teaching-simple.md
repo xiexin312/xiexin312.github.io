@@ -11,4 +11,5 @@ redirect_from:
 
 ## Undergraduate Course
 
-- Mobile communication network and optimization, Lanzhou Jiaotong University, Spring 2026
+- Mobile Communication Network and Optimization, Lanzhou Jiaotong University, Spring 2026
+- Principles of Communications, Lanzhou Jiaotong University, Fall 2026
