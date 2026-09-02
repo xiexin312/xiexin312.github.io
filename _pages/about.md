@@ -23,6 +23,8 @@ We are the **Ubiquitous Connectivity and Intelligent Computing (UC&IC) Group**, 
 * Communications for Brain-Computer Interfaces
 
 ## News
+* [2026/09/02] Dr. Xin Xie was invited to serve as IEEE ICC 2027 IoT TPC member.
+* [2026/09/01] Welcome Songling Deng, and Ruirui Liang to our research group as Master's students!
 * [2026/05/12] Dr. Xin Xie was invited to serve as IEEE Globecom 2026 IoTSN TPC member.
 * [2026/01/19] Our work entitled "Joint Design of Coding and Modulation for Digital Over-the-Air Computation" has been accepted for publication in IEEE Internet of Things Journal. ([HTML](https://ieeexplore.ieee.org/abstract/document/11358822))
 * [2025/12/29] Dr. Xin Xie was invited to serve as IEEE ICC 2026 IoT TPC member.
