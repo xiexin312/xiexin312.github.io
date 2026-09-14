@@ -33,6 +33,7 @@ redirect_from:
   - IEEE Journal on Selected Areas in Communications
   - IEEE Transactions on Information Forensics and Security
   - IEEE Wireless Communications Letters
+  - IEEE Internet of Things Journal
 
 - Reviewer for Conferences:
   - IEEE Globecom
@@ -40,7 +41,8 @@ redirect_from:
   - IEEE WCSP
 
 - Technical Program Committee Member
+  - IEEE ICC 2026, 2027
   - IEEE Globecom 2026
-  - IEEE ICC 2026
+
 
 
