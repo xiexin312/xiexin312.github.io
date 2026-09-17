@@ -29,8 +29,9 @@ redirect_from:
 
 .member-card {
   display: flex;
+  flex-wrap: wrap;
   gap: 1.2em;
-  align-items: flex-start;
+  align-items: stretch;
   padding: 1.2em 0;
   border-bottom: 1px solid #e5e5e5;
 }
@@ -39,16 +40,22 @@ redirect_from:
   border-bottom: none;
 }
 
+.member-photo {
+  flex: 0 0 160px;
+  display: flex;
+  align-items: stretch;
+}
+
 .member-photo img {
-  width: 120px;
-  height: 120px;
+  width: 160px;
+  height: 100%;
   object-fit: cover;
   border-radius: 12px;
   display: block;
 }
 
 .member-info {
-  flex: 1;
+  flex: 1 1 300px;
 }
 
 .member-info h3 {
@@ -58,22 +65,6 @@ redirect_from:
 
 .member-info p {
   margin: 0.25em 0;
-}
-
-@media (max-width: 600px) {
-  .member-card {
-    flex-direction: column;
-    align-items: center;
-  }
-
-  .member-photo img {
-    width: 140px;
-    height: 140px;
-  }
-
-  .member-info {
-    text-align: center;
-  }
 }
 </style>
 
@@ -92,8 +83,8 @@ redirect_from:
         <p><strong>Role:</strong> Master Student</p>
         <p><strong>Bachelor's University:</strong> Northwest Minzu University, Lanzhou</p>
         <p><strong>Enrollment:</strong> 2026.09</p>
-        <p><strong>Research Interests:</strong> TBD</p>
-        <p><strong>Email:</strong> <a href="mailto:email@example.com">email@example.com</a></p>
+        <p><strong>Research Interests:</strong> Embodied Intelligent Wireless Communication</p>
+        <p><strong>Email:</strong> <a href="mailto:15723555526@163.com">15723555526@163.com</a></p>
       </div>
     </div>
 
@@ -106,8 +97,8 @@ redirect_from:
         <p><strong>Role:</strong> Master Student</p>
         <p><strong>Bachelor's University:</strong> Lanzhou Jiaotong University, Lanzhou</p>
         <p><strong>Enrollment:</strong> 2026.09</p>
-        <p><strong>Research Interests:</strong> TBD</p>
-        <p><strong>Email:</strong> <a href="mailto:email@example.com">email@example.com</a></p>
+        <p><strong>Research Interests:</strong> Wireless Brain-Computer Interface Communication</p>
+        <p><strong>Email:</strong> <a href="mailto:746971836@qq.com">746971836@qq.com</a></p>
       </div>
     </div>
 
@@ -120,8 +111,8 @@ redirect_from:
         <p><strong>Role:</strong> Master Student</p>
         <p><strong>Bachelor's University:</strong> Beijing Union University, Beijing</p>
         <p><strong>Enrollment:</strong> 2025.09</p>
-        <p><strong>Research Interests:</strong> TBD</p>
-        <p><strong>Email:</strong> <a href="mailto:email@example.com">email@example.com</a></p>
+        <p><strong>Research Interests:</strong> Over-the-Air Computation</p>
+        <p><strong>Email:</strong> <a href="mailto:18810985327@163.com">18810985327@163.com</a></p>
       </div>
     </div>
 
@@ -134,8 +125,8 @@ redirect_from:
         <p><strong>Role:</strong> Master Student</p>
         <p><strong>Bachelor's University:</strong> Xinjiang Tianshan Vocational and Technical University, Urumqi</p>
         <p><strong>Enrollment:</strong> 2025.09</p>
-        <p><strong>Research Interests:</strong> TBD</p>
-        <p><strong>Email:</strong> <a href="mailto:email@example.com">email@example.com</a></p>
+        <p><strong>Research Interests:</strong> Over-the-Air Computation</p>
+        <p><strong>Email:</strong> <a href="mailto:2408444316@qq.com">2408444316@qq.com</a></p>
       </div>
     </div>
 
@@ -148,8 +139,8 @@ redirect_from:
         <p><strong>Role:</strong> Master Student</p>
         <p><strong>Bachelor's University:</strong> Ankang University, Xi'an</p>
         <p><strong>Enrollment:</strong> 2025.09</p>
-        <p><strong>Research Interests:</strong> TBD</p>
-        <p><strong>Email:</strong> <a href="mailto:email@example.com">email@example.com</a></p>
+        <p><strong>Research Interests:</strong> Over-the-Air Computation</p>
+        <p><strong>Email:</strong> <a href="mailto:15829581508@163.com">15829581508@163.com</a></p>
       </div>
     </div>
 
@@ -164,15 +155,15 @@ redirect_from:
 
     <div class="member-card">
       <div class="member-photo">
-        <img src="{{ site.baseurl }}/images/group/undergraduate-name.jpg" alt="Name">
+        <img src="{{ site.baseurl }}/images/group/haixu-cao.jpg" alt="Name">
       </div>
       <div class="member-info">
-        <h3>Name (姓名)</h3>
+        <h3>Haixu Cao (曹海旭)</h3>
         <p><strong>Role:</strong> Undergraduate Student</p>
-        <p><strong>University:</strong> TBD</p>
-        <p><strong>Year:</strong> TBD</p>
-        <p><strong>Research Interests:</strong> TBD</p>
-        <p><strong>Email:</strong> <a href="mailto:email@example.com">email@example.com</a></p>
+        <p><strong>University:</strong> Lanzhou Jiaotong University, Lanzhou</p>
+        <p><strong>Year:</strong> 2025.09</p>
+        <p><strong>Research Interests:</strong> Embodied Intelligent Wireless Communication</p>
+        <p><strong>Email:</strong> <a href="mailto:1931149781@qq.com">1931149781@qq.com</a></p>
       </div>
     </div>
 
