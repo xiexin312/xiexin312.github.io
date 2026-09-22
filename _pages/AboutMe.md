@@ -26,9 +26,9 @@ redirect_from:
 - Tianyou Associate Professor in [Lanzhou Jiaotong University](https://www.lzjtu.edu.cn/), 2025/05-now
   
 ## Award
-- [Sep.2025] ACM China Council Lanzhou Chapter Excellent Doctoral Dissertation Award.
+- [Sep.2025] ACM China Council Lanzhou Chapter Excellent Doctoral Dissertation Award
 
-## Professional Services
+## Professional Service
 - Reviewer for Journals:
   - IEEE Journal on Selected Areas in Communications
   - IEEE Transactions on Information Forensics and Security
